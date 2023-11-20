@@ -20,7 +20,7 @@ The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio).
 
 <li>React JS
 
-<li>ode JS
+<li>Node JS
 
 <br>during those couple of months, and everything was explained from the very basics so that anyone with zero experience on programming can learn.
 
