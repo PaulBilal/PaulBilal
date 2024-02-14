@@ -2,19 +2,35 @@
 
 
 
-Hi I made projects during the 6 months MERN Stack Bootcamp, conducted by <b> SHAPEAI </b>.
+I am a software developer and technology enthusiast from South Africa.
 
-The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio). I got to learn a lot during those couple of months and it was an amazing experience learning with SHAPEAI.
+<ul>
+  <li>Full stack developer contributing in frontend, backend, and databases.</li>
+  <li>I have an interest in micro services, as well as cloud computing</li>
+  <li>I enjoy reading tech articles</li>
+  <li>I am an agripreneur</li>
+  <li>I am a marathon runner</li>
+</ul>
 
-<br>I got to have hands on experience on:
+<br>Languages and frameworks I've used include:
+
+<li>C++
+
+<li>Java
+
+<li>Flutter
 
 <li>HTML
 
 <li>CSS
 
+<li>Bootstrap
+
 <li>JavaScript
 
 <li>Mongo DB
+
+<li>SQL
 
 <li>Express JS
 
@@ -26,12 +42,12 @@ The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio).
 
 
 
-For more information, visit SHAPEAI on:
+For more information, visit me on:
 
-  <li><a href="https://in.linkedin.com/company/shapeai">LinkedIn</a>   
+  <li><a href="https://www.linkedin.com/in/paul-kobedi/">LinkedIn</a>   
 
-  <li><a href="https://www.instagram.com/shape.ai/?hl=en">Instagram</a>  
+  <li><a href="https://www.instagram.com/your_local_pantsula_geek/">Instagram</a> 
 
-  <li><a href="https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTube</a> 
+  <li><a href="https://twitter.com/pantsula_geek/">Twitter</a>
 
-  <li><a href="https://github.com/shapeai">GitHub</a>
+  <li><a href="https://paulbilal.github.io/PaulPersonalPortfolioWebsite.io/">Website Portfolio</a> 
