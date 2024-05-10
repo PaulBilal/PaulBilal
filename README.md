@@ -18,6 +18,8 @@ I am a software developer and technology enthusiast from South Africa 👾
 
 <li>Java
 
+<li>Python
+
 <li>Flutter
 
 <li>HTML
@@ -36,7 +38,13 @@ I am a software developer and technology enthusiast from South Africa 👾
 
 <li>React JS
 
+<li>Django
+
 <li>Node JS
+
+<li>Data Structures and Algorithms
+
+<li>Figma
 
 
 
